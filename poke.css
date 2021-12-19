@@ -1,0 +1,17 @@
+body{
+    background: greenyellow;
+    text-align: center;
+}
+.poke{
+    background: whitesmoke;
+    margin: 10px;
+    border: ridge;
+    border-color: blue;
+}
+#h1{
+    font-style: italic;
+}
+
+#button{
+    margin: 10px;
+}
